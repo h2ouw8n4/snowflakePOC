@@ -5,7 +5,7 @@ This is a quick POC doing an extract of a customer contact table from oracle the
 
 *These are referenced in dbconfig.js.*
 
-NODE_ORACLEDB_USER
-NODE_ORACLEDB_PASSWORD
-NODE_ORACLEDB_CONNECTIONSTRING
+NODE_ORACLEDB_USER  
+NODE_ORACLEDB_PASSWORD  
+NODE_ORACLEDB_CONNECTIONSTRING  
 NODE_ORACLEDB_EXTERNALAUTH (Optional)
