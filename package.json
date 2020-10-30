@@ -1,0 +1,19 @@
+{
+  "name": "nodeextract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "kickbox": "^2.0.4",
+    "oracledb": "^5.0.0",
+    "parquetjs": "^0.11.2",
+    "snowflake-sdk": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
